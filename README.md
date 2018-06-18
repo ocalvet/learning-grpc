@@ -1,1 +1,1 @@
-# learning-grpc
+# Project to learn gRPC concepts
